@@ -141,6 +141,11 @@ h2 {
   color: white;
 }
 
+#coder-link {
+  color: white;
+  text-decoration: none;
+}
+
 .showTemp {
   list-style: none;
   text-align: center;
